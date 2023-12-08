@@ -21,7 +21,7 @@ I'm always on the lookout for new tools and technologies to expand my skill set.
 Feel free to explore my repositories and reach out for collaborations or discussions on any projects. Let's connect and build something awesome together! 😊
 
 
-Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT / MONGODB / NODE JS
+Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT / MONGODB / NODE JS / FIREBASE
 
 - 🔭 I’m currently working on this page. 
 
