@@ -1,8 +1,25 @@
-### Hi there 👋, I'm Forhad Mia
+## Hey there, I'm Forhad Mia! 👋
 #### Web Developer
 ![Web Developer](https://i.ibb.co/8j24pJy/IMG20220225154205-removebg-preview.png)
 
-My name is Forhad Mia, who Passionate and detail-oriented Frontend Developer equipped with a solid foundation in HTML, CSS, and JavaScript, complemented by proficiency in modern frameworks like React and design utilities such as Tailwind CSS. Recently completed an intensive web development course, cultivating a keen eye for user-centric design and intuitive user experiences.
+I'm a passionate full-stack developer with expertise in various technologies. My journey began with HTML, CSS, and JavaScript, and since then, I've delved deeper into modern frameworks like React, along with libraries such as Tailwind CSS.
+
+### What I've worked with:
+
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB
+
+### My Approach:
+
+I love building sleek and responsive web applications, focusing on user experience and efficient functionality. I enjoy tackling challenges, learning new technologies, and implementing them in creative ways to solve real-world problems.
+
+### What I'm currently exploring:
+
+I'm always on the lookout for new tools and technologies to expand my skill set. Lately, I've been diving deeper into [specific topic/technology you're currently learning or interested in].
+
+Feel free to explore my repositories and reach out for collaborations or discussions on any projects. Let's connect and build something awesome together! 😊
+
 
 Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT / MONGODB / NODE JS
 
